@@ -5,3 +5,6 @@ npm create vite@latest
  
 <h3>Iniciando Storybook</h3>
 npx sb init
+
+<h3>Storybook Run</h3>
+npm run storybook
