@@ -10,16 +10,15 @@ npx sb init
 npm run storybook
 
 
-<h3>src/components/CodersButton.jsx</h3>
+<strong>src/components/CodersButton.jsx</strong>
 
-<h3>Storybook Run</h3>
 export default function CodersButton(){
     return <button>Botão da Aplicação</button>
  }
 
 
 
-<h3>src/stories/CodersButton.stories.jsx</h3>
+<strong>src/stories/CodersButton.stories.jsx</strong>
 
 import CodersButton from "../components/CodersButton";
 
