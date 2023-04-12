@@ -16,3 +16,16 @@ npm run storybook
 export default function CodersButton(){
     return <button>Botão da Aplicação</button>
  }
+
+
+
+<h3>src/stories/CodersButton.stories.jsx</h3>
+
+import CodersButton from "../components/CodersButton";
+
+export default {
+    title: 'Components/CodersButton',
+    component: CodersButton
+}
+
+export const Primary = () => <CodersButton />
