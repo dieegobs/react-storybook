@@ -8,3 +8,8 @@ npx sb init
 
 <h3>Storybook Run</h3>
 npm run storybook
+
+
+export default function CodersButton(){
+    return <button>Botão da Aplicação</button>
+ }
